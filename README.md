@@ -14,4 +14,4 @@ for those movies. The program performs two different anyalsis:
 The  format  is  as  follows: **MovieID, MovieName, PubYear**.
 - The file **"reviews.csv"** contains  movie  reviews,  in  order  by  review  date (with  secondary  sortby  user  id).
 The  format  is  as  follows: **ReviewID, MovieID, UserID, Rating, ReviewDate**.
-- **"reviews-2.csv"** is also included as a tester file.
+- **"reviews-2.csv"** is also included as a tester file. (Its a pretty big file ~1,000,000 lines)
