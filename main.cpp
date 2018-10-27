@@ -1,16 +1,5 @@
 /*main.cpp*/
 
-//
-// Movie Analysis program in modern C++.
-//
-// << Uzair Mohammed >>
-// U. of Illinois, Chicago
-// CS 341: Fall 2018
-// Project 02
-//
-
-
-
 #include <iostream>
 #include <iomanip>
 #include <fstream>
